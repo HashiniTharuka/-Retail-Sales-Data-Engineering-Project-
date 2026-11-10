@@ -1,0 +1,16 @@
+SaleID,OrderDate,CustomerID,Product,Category,Quantity,UnitPrice,Region
+1,2026-01-05,C001,Laptop,Electronics,2,150000,Western
+2,2026-01-06,C002,Mouse,Accessories,5,2500,Central
+3,2026-01-07,C003,Keyboard,Accessories,3,4500,Southern
+4,2026-01-08,C001,Monitor,Electronics,1,85000,Western
+5,2026-01-09,C004,Desk,Furniture,2,45000,Central
+6,2026-01-10,C005,Chair,Furniture,4,12000,Eastern
+7,2026-01-11,C002,Mouse,Accessories,2,2500,Central
+8,2026-01-12,C006,Laptop,Electronics,1,150000,Western
+9,2026-01-13,C007,Keyboard,Accessories,2,4500,Northern
+10,2026-01-14,C003,Monitor,Electronics,2,85000,Southern
+11,2026-01-15,C008,Desk,Furniture,1,45000,Eastern
+12,2026-01-16,C009,Chair,Furniture,3,12000,Western
+13,2026-01-17,C010,Mouse,Accessories,6,2500,Northern
+14,2026-01-18,C004,Laptop,Electronics,1,150000,Central
+15,2026-01-19,C005,Monitor,Electronics,2,85000,Eastern
